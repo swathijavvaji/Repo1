@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Jenkins/caches/git-6480a7bc4d4edf08b9f27baf7f0a40ee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Jenkins/caches/git-997e2ef1ba5304a7e410a023e3adff7f" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Jenkins/caches/git-b505a189f5aec614d038955fccbe15e7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Jenkins/workspace/Demopipeline" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Desktop/Jenkins/workspace/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/FirstGroovy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/GitTesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/Githubtesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/HelloWorld/HelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/MessageService-Training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/analyze-ms-disgnostics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/db2tools-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/db2tools-qa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/idb2-qa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/oi-smf-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/untitled" vcs="Git" />
+  </component>
+</project>
